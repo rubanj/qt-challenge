@@ -1,14 +1,15 @@
 Please, provide production level solution.
 
 The task requires knowledge of Qt 5 (Qt Widgets, Qt Core, Qt Network, Qt Concurrent).
-The final solution will be judged on:
+The final solution will be judged on
 
-coding style;
-— code architecture;
-— overall Qt usage;
-— code efficiency;
-— proper usage of C++;
-— code readability.
+*Coding style
+*Code architecture
+*Overall Qt usage
+*Code efficiency;
+*Proper usage of C++
+*Code readability.
+
 We don’t set any timing boundaries regarding task completion, but lease, provide
 estimate for the task completion. It’s needed to see how your estimates are reliable.
 With that being said, have fun and good luck!
